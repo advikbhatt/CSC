@@ -2,6 +2,9 @@
 
 Welcome to the Stammering Cure Website repository. This project aims to provide a comprehensive platform for individuals facing stammering issues, offering solutions and resources to help them improve their speech fluency.
 
+Visit the live site or see the github demo
+- https://completestammeringcure.in/
+- https://advikbhatt.github.io/CSC/
 ## Table of Contents
 - [About the Project](#about-the-project)
 - [Features](#features)
